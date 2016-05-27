@@ -46,11 +46,13 @@ Quality is 80 and it never alters.
 
 ##Getting Started
 
-Clone the repository. Run build.bat from Powershell. If you see 
-output similar to the following screenshot, you are ready to 
-start refactoring.
+###Start the kata
+* git clone
+* git reset --hard tags/kata0
+* read the rules below
 
-![alt text](images/build_output.png "Good Build Output")
+###Advance to another step
+* 'git reset --hard tags/kata(X)' where (X) <= 3
 
 ##Who, What, Why?
 Who: [@TerryHughes](https://twitter.com/TerryHughes), [@NotMyself](https://twitter.com/NotMyself)
